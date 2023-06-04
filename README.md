@@ -1,0 +1,1 @@
+Learning how to deconstruct applications into Config, Controller, Model, and Route folders to keep code more organized
